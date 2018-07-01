@@ -1,11 +1,11 @@
 # RockPaperScissors Using Node
 
-In this project I learned to recreate a past assignment from scratch and host it onto a server.
+In this project I learned to recreate a past assignment from scratch using vanilla javascript and host it onto a server.
 
 ## How It's Made:
 **Tech used:** HTML, CSS, Javascript, Node
 
-Using Node.js I hosted my Rock, Paper, Scissors game on a server.
+Using Node.js I hosted my Rock, Paper, Scissors game on a server. I created the game from scratch on vanilla javascript.
 
 
 ## Examples:
